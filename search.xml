@@ -4,35 +4,6 @@
   
     
     <entry>
-      <title>你是谁</title>
-      <link href="/2022/06/03/ni-shi-shui/"/>
-      <url>/2022/06/03/ni-shi-shui/</url>
-      
-        <content type="html"><![CDATA[<h1 id="你是谁"><a href="#你是谁" class="headerlink" title="你是谁"></a>你是谁</h1><hr><h3 id="制作时间"><a href="#制作时间" class="headerlink" title="制作时间"></a>制作时间</h3><ul><li>2019年6月</li></ul><h3 id="制作工具"><a href="#制作工具" class="headerlink" title="制作工具"></a>制作工具</h3><ul><li>RPG Maker MV</li></ul><h3 id="游戏标签"><a href="#游戏标签" class="headerlink" title="游戏标签"></a>游戏标签</h3><ul><li>文字&#x2F;解谜</li></ul><h3 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h3><ul><li>啊谦觉得自己好像忘记了什么。为了弄清楚，自己到底有没有忘记什么，他找来了一个心理医生，尝试着进入到他的回忆中。他在自己的回忆中，看到了一个女生，但他看不清她的脸，不记得她的名字。“你是谁？”</li></ul><h3 id="实机截图"><a href="#实机截图" class="headerlink" title="实机截图"></a>实机截图</h3><p><img src="https://i.postimg.cc/MZr3zQz9/01.png"></p><p><img src="https://i.postimg.cc/C5tc7Wc3/02.png"></p><p><img src="https://i.postimg.cc/4yn8zJQv/03.png"></p><h3 id="演示视频-amp-游戏本体"><a href="#演示视频-amp-游戏本体" class="headerlink" title="演示视频&amp;游戏本体"></a><a href="https://www.dropbox.com/sh/ww922w1f1z5p4le/AAD24M2JdhFRfgEmPV3yDJ_0a?dl=0">演示视频&amp;游戏本体</a></h3><hr><h3 id="游戏详情"><a href="#游戏详情" class="headerlink" title="游戏详情"></a>游戏详情</h3><ul><li><p>本游戏为RPG Maker MV同好群所举办的第二届One Map One Dream大赛的参赛作品，并最终获得了该次比赛的第二名。本次比赛的主题为“春”，要求为在一张地图上做出带有“春”的意义的游戏。</p></li><li><p>该游戏为我第一次真正意义上制作的游戏。主要通过步行、收集、解谜的方式来讲述一个故事，并在故事中表达出自己对“春”这一主题的理解。</p></li><li><p>游戏的核心是收集花瓣，玩家在游戏中扮演一个名为“啊谦”的少年，在不同的记忆中穿梭，解开谜题，收集散落在记忆中的花瓣，最终找回自己失去的一段记忆，解开自己的心结。</p></li><li><p>游戏也包含了部分关卡设计相关的思路，在关卡的安排上基本上是按着易—难—易—难—更难—易这种思路来设计的。</p></li><li><p>对主题的理解方面，我认为“春”应该包含“春来”以及“春去”，毕竟不可能一直都是春天，而且春天也不可能一直都不来。而与此同时，“春”还象征着“希望”。</p></li><li><p>而后的剧本与人设方面，我使用了较为隐晦的方式进行了表达，女主代表了“春”的意象。而啊谦则是一个追求着希望的迷茫少年。最终在女主的帮助下，啊谦他要依靠自己，用自己的双手去抓住希望，而不是依靠着春天的到来。花落已终，花开再始。</p></li></ul><h3 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h3><ul><li><p>我在写这篇东西的时候其实有点尴尬，因为当我回首我这第一个作品的时候，我真的想给自己两锤锤死自己。</p></li><li><p>虽然整个游戏算是我所开发的项目中比较完整的一款。但是从关卡设计到剧本到文案到系统，真的太不成熟了。我想整个游戏最大的亮点就在于结尾时花瓣落下所构成的图像那一部分内容了。</p></li><li><p>当时做这个作品的时候，比赛要求是“一幅地图”，我原本是想把整个地图做成一个大脑的模样，然后记忆分散在这各个区域，但由于当时的课业以及活动等时间太赶，最终只能放弃这个想法。所以呈现出来的效果其实不过是在一幅图里面画了九幅小地图罢了。</p></li><li><p>所以总而言之整个游戏算得上“粗制滥造”吧哈哈哈。</p></li><li><p>不过还是希望你能玩得开心，谢谢你玩我的游戏。</p></li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> 已发布游戏 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> RPG Maker </tag>
-            
-            <tag> 文字 </tag>
-            
-            <tag> 解谜 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Dungeon</title>
       <link href="/2022/06/01/dungeon/"/>
       <url>/2022/06/01/dungeon/</url>
@@ -54,6 +25,35 @@
             <tag> 冒险 </tag>
             
             <tag> 探索 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>你是谁</title>
+      <link href="/2022/05/31/ni-shi-shui/"/>
+      <url>/2022/05/31/ni-shi-shui/</url>
+      
+        <content type="html"><![CDATA[<h1 id="你是谁"><a href="#你是谁" class="headerlink" title="你是谁"></a>你是谁</h1><hr><h3 id="制作时间"><a href="#制作时间" class="headerlink" title="制作时间"></a>制作时间</h3><ul><li>2019年6月</li></ul><h3 id="制作工具"><a href="#制作工具" class="headerlink" title="制作工具"></a>制作工具</h3><ul><li>RPG Maker MV</li></ul><h3 id="游戏标签"><a href="#游戏标签" class="headerlink" title="游戏标签"></a>游戏标签</h3><ul><li>文字&#x2F;解谜</li></ul><h3 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h3><ul><li>啊谦觉得自己好像忘记了什么。为了弄清楚，自己到底有没有忘记什么，他找来了一个心理医生，尝试着进入到他的回忆中。他在自己的回忆中，看到了一个女生，但他看不清她的脸，不记得她的名字。“你是谁？”</li></ul><h3 id="实机截图"><a href="#实机截图" class="headerlink" title="实机截图"></a>实机截图</h3><p><img src="https://i.postimg.cc/MZr3zQz9/01.png"></p><p><img src="https://i.postimg.cc/C5tc7Wc3/02.png"></p><p><img src="https://i.postimg.cc/4yn8zJQv/03.png"></p><h3 id="演示视频-amp-游戏本体"><a href="#演示视频-amp-游戏本体" class="headerlink" title="演示视频&amp;游戏本体"></a><a href="https://www.dropbox.com/sh/ww922w1f1z5p4le/AAD24M2JdhFRfgEmPV3yDJ_0a?dl=0">演示视频&amp;游戏本体</a></h3><hr><h3 id="游戏详情"><a href="#游戏详情" class="headerlink" title="游戏详情"></a>游戏详情</h3><ul><li><p>本游戏为RPG Maker MV同好群所举办的第二届One Map One Dream大赛的参赛作品，并最终获得了该次比赛的第二名。本次比赛的主题为“春”，要求为在一张地图上做出带有“春”的意义的游戏。</p></li><li><p>该游戏为我第一次真正意义上制作的游戏。主要通过步行、收集、解谜的方式来讲述一个故事，并在故事中表达出自己对“春”这一主题的理解。</p></li><li><p>游戏的核心是收集花瓣，玩家在游戏中扮演一个名为“啊谦”的少年，在不同的记忆中穿梭，解开谜题，收集散落在记忆中的花瓣，最终找回自己失去的一段记忆，解开自己的心结。</p></li><li><p>游戏也包含了部分关卡设计相关的思路，在关卡的安排上基本上是按着易—难—易—难—更难—易这种思路来设计的。</p></li><li><p>对主题的理解方面，我认为“春”应该包含“春来”以及“春去”，毕竟不可能一直都是春天，而且春天也不可能一直都不来。而与此同时，“春”还象征着“希望”。</p></li><li><p>而后的剧本与人设方面，我使用了较为隐晦的方式进行了表达，女主代表了“春”的意象。而啊谦则是一个追求着希望的迷茫少年。最终在女主的帮助下，啊谦他要依靠自己，用自己的双手去抓住希望，而不是依靠着春天的到来。花落已终，花开再始。</p></li></ul><h3 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h3><ul><li><p>我在写这篇东西的时候其实有点尴尬，因为当我回首我这第一个作品的时候，我真的想给自己两锤锤死自己。</p></li><li><p>虽然整个游戏算是我所开发的项目中比较完整的一款。但是从关卡设计到剧本到文案到系统，真的太不成熟了。我想整个游戏最大的亮点就在于结尾时花瓣落下所构成的图像那一部分内容了。</p></li><li><p>当时做这个作品的时候，比赛要求是“一幅地图”，我原本是想把整个地图做成一个大脑的模样，然后记忆分散在这各个区域，但由于当时的课业以及活动等时间太赶，最终只能放弃这个想法。所以呈现出来的效果其实不过是在一幅图里面画了九幅小地图罢了。</p></li><li><p>所以总而言之整个游戏算得上“粗制滥造”吧哈哈哈。</p></li><li><p>不过还是希望你能玩得开心，谢谢你玩我的游戏。</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 已发布游戏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> RPG Maker </tag>
+            
+            <tag> 文字 </tag>
+            
+            <tag> 解谜 </tag>
             
         </tags>
       
