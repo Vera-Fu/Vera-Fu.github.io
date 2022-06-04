@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Wild Star</title>
+      <link href="/2022/06/02/wild-star/"/>
+      <url>/2022/06/02/wild-star/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Dungeon"><a href="#Dungeon" class="headerlink" title="Dungeon"></a>Dungeon</h1><hr><h3 id="制作时间"><a href="#制作时间" class="headerlink" title="制作时间"></a>制作时间</h3><ul><li>2021年6月</li></ul><h3 id="制作工具"><a href="#制作工具" class="headerlink" title="制作工具"></a>制作工具</h3><ul><li>Nintendo SDK</li></ul><h3 id="游戏标签"><a href="#游戏标签" class="headerlink" title="游戏标签"></a>游戏标签</h3><ul><li>弹幕射击</li></ul><h3 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h3><ul><li>《Wild Star》是一款使用Nintendo SDK开发的弹幕射击游戏。游戏中共有四个关卡，关卡中有各种不同的敌人。击败敌人，提高评价，获取金币，强化自身，征服这颗荒野星球吧！</li></ul><h3 id="实机截图"><a href="#实机截图" class="headerlink" title="实机截图"></a>实机截图</h3><p><img src="https://i.postimg.cc/xCyHBBPN/Wild-Star01.png"></p><p><img src="https://i.postimg.cc/63NnjBCN/Wild-Star02.png"></p><p><img src="https://i.postimg.cc/DzG1PSJg/Wild-Star03.png"></p><h3 id="演示视频-amp-游戏本体-注-由于本体仅可在Switch开发机上运行，故此处不包含游戏本体。"><a href="#演示视频-amp-游戏本体-注-由于本体仅可在Switch开发机上运行，故此处不包含游戏本体。" class="headerlink" title="演示视频&amp;游戏本体 [^注]: 由于本体仅可在Switch开发机上运行，故此处不包含游戏本体。"></a><a href="https://www.dropbox.com/sh/xi3mzvilghraa4e/AADiySN6eN3t-UAPBofzy_PYa?dl=0">演示视频&amp;游戏本体</a> [^注]: 由于本体仅可在Switch开发机上运行，故此处不包含游戏本体。</h3><h3 id="源码"><a href="#源码" class="headerlink" title="源码"></a><a href="https://github.com/Vera-Fu/Wild-Star.git">源码</a></h3><hr><h3 id="游戏详情"><a href="#游戏详情" class="headerlink" title="游戏详情"></a>游戏详情</h3><ul><li><p>本游戏为HAL校方组织的游戏设计比赛项目的参赛作品。使用的制作工具为Nintendo SDK，游戏的类型为弹幕射击。最终获得了由学校颁发的意欲赏。</p></li><li><p>本游戏制作的主要目的是了解与熟悉游戏的Initialize、Update、Draw、UnInitialize四大基本循环，了解与熟悉游戏制作的流程。</p></li><li><p>游戏的主体为《飞机大战》式的弹幕射击，但在此基础上加入了商店，机体强化，关卡选择，场景切换，简单的敌人AI等设计。</p></li><li><p>游戏中共含四大关卡，关卡中有不同的敌人，敌人有各种不同的攻击方式。游戏的难度颇高，在班级同学（试玩者约7-8人）的试玩中无人顺利通过第一关，仅有一人见到了第一关的关底BOSS。但敌人的出现时机以及攻击方式均是固定的，玩家进行记忆以及熟悉以后每一关均可尝试无伤通关。为此我亦为游戏加入了关卡最高分以及关卡评价的设计，给予了玩家重复挑战的欲望。</p></li></ul><h3 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h3><ul><li><p>虽然作为一个游戏该有的基本要素都有了，但其实就是一个平平无奇的弹幕射击游戏……</p></li><li><p>整个游戏开发过程中花费时间比较多的还是在AI和关卡的调整设计上吧，当时写AI的时候就是用了粗暴的if else，自己甚至也没有意识到这是游戏AI，所以其实就是一个简单的固定移动和根据剩余血量的进行的固定攻击方式。</p></li><li><p>关卡的调整设计就是敌人的出现时机，关卡的长度等等。我自己在设计的时候是按照着自己可以无伤过的标准来设计的。但在后续同学的试玩中发现难度还是太高了……我也在差不多这个时候听到了一个观点：“如果一个游戏的难度对于设计师来说正好，那么对于玩家来说那难度肯定是偏高的。”</p></li><li><p>因为没有游戏本体可供试玩，所以就，谢谢你看我的叨叨。</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 已发布游戏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C语言 </tag>
+            
+            <tag> OpenGL </tag>
+            
+            <tag> 弹幕射击 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Dungeon</title>
       <link href="/2022/06/01/dungeon/"/>
       <url>/2022/06/01/dungeon/</url>
