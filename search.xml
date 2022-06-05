@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Zombie</title>
+      <link href="/2022/06/04/zombie/"/>
+      <url>/2022/06/04/zombie/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Zombie"><a href="#Zombie" class="headerlink" title="Zombie"></a>Zombie</h1><hr><h3 id="制作时间"><a href="#制作时间" class="headerlink" title="制作时间"></a>制作时间</h3><ul><li>2021年2月</li></ul><h3 id="制作工具"><a href="#制作工具" class="headerlink" title="制作工具"></a>制作工具</h3><ul><li>Unity</li></ul><h3 id="游戏标签"><a href="#游戏标签" class="headerlink" title="游戏标签"></a>游戏标签</h3><ul><li>恐怖&#x2F;悬疑&#x2F;过场动画</li></ul><h3 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h3><ul><li>深夜，下班回家途中，男人的惨叫，玻璃破碎的声音，奇怪的女人。越过转角，有什么东西似乎在趴在地上吃着什么东西。噢，是人在吃人。</li></ul><h3 id="实机截图"><a href="#实机截图" class="headerlink" title="实机截图"></a>实机截图</h3><p><img src="https://i.postimg.cc/gcQ5mkfP/Zombie01.png"></p><p><img src="https://i.postimg.cc/XY0zB1jH/Zombie02.png"></p><h3 id="演示视频-amp-游戏本体"><a href="#演示视频-amp-游戏本体" class="headerlink" title="演示视频&amp;游戏本体"></a><a href="https://www.dropbox.com/sh/0px52h99w599vyu/AADk_cjZIHoLJtU-JT-A0Nyba?dl=0">演示视频&amp;游戏本体</a></h3><p>（注: 由于演示动画即为游戏的全部内容，故不在此上传本体）</p><hr><h3 id="游戏详情"><a href="#游戏详情" class="headerlink" title="游戏详情"></a>游戏详情</h3><ul><li><p>本游戏是以学习Unity3D相关知识（主要是Timeline相关内容）为目的进行创作的。算是一个简单的demo。</p></li><li><p>虽说是游戏，但其实整个游戏就是简单的步行模拟+过场动画，演示视频中的40秒即是游戏中的全部内容。</p></li><li><p>除了Unity3D相关知识的学习外，本游戏中我还尝试了一下“场景叙事”。先简单讲述一下玩家在场景中会碰到的内容：最开始，向前行走，会听到一个男人和一只猫的惨叫。随后继续往前，会听到玻璃破碎的声音，这时会听到右边有个奇怪的声音，并且会看到一个奇怪的女人蹲在地上。继续往前，走到路灯下，路灯开始闪烁，随后熄灭，玩家的视线会被引导至远处的路灯处，既可以看到丧尸和丧尸正在啃食着的人。虽然有点难看清，但是被啃食的人身上穿着警察的衣服。玩家可操作的部分到此为止，随后便是用Timeline做的过场动画，主人公想逃离的时候，却被在后方的女性丧尸扑倒袭击了。游戏结束。</p></li><li><p>在这些内容下隐藏的故事是，丧尸病毒刚刚开始爆发，有个男人被丧尸化的女人袭击了。被袭击后呼叫了警察，但是警察到来的时候男人亦变成了丧尸，攻击了警察。大概就是这么一个背景。</p></li><li><p>虽说游戏很短，但是作为一个步行模拟器所需要的内容其实已经基本实现了。后续想继续开发的话只需继续绑定事件、搭建场景和设置Timeline即可。</p></li></ul><h3 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h3><ul><li><p>做这个游戏的时候其实被一个很奇怪的灯光bug困扰了一段时间，就是当烘焙灯光的时候有部分灯光会直接失去效果导致场景变暗。因此视频里的灯光效果其实是没有烘焙过的，稍微设置调整了一下就进行打包了……虽然最终呈现出来的效果还可以……</p></li><li><p>后续翻资料翻半天也是顺利找出问题所在了，排除了资料中所有的可能性然后才发现原来只不过是灯光在烘焙的时候被模型给挡住了……</p></li><li><p>说实话当时为了解决那个bug甚至打算开始去学图形学和渲染相关的内容了，又是一个深坑啊。好在顺利解决了，不过也借此确实感觉还是多拓展点知识面会好一点。</p></li><li><p>希望你没被吓到，谢谢你看我的游戏。</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 已发布游戏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Unity </tag>
+            
+            <tag> 过场动画 </tag>
+            
+            <tag> 恐怖 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Roll the ball</title>
       <link href="/2022/06/04/roll-the-ball/"/>
       <url>/2022/06/04/roll-the-ball/</url>
@@ -64,7 +93,7 @@
       <link href="/2022/06/02/wild-star/"/>
       <url>/2022/06/02/wild-star/</url>
       
-        <content type="html"><![CDATA[<h1 id="Wild-Star"><a href="#Wild-Star" class="headerlink" title="Wild Star"></a>Wild Star</h1><hr><h3 id="制作时间"><a href="#制作时间" class="headerlink" title="制作时间"></a>制作时间</h3><ul><li>2021年6月</li></ul><h3 id="制作工具"><a href="#制作工具" class="headerlink" title="制作工具"></a>制作工具</h3><ul><li>Nintendo SDK</li></ul><h3 id="游戏标签"><a href="#游戏标签" class="headerlink" title="游戏标签"></a>游戏标签</h3><ul><li>弹幕射击</li></ul><h3 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h3><ul><li>《Wild Star》是一款使用Nintendo SDK开发的弹幕射击游戏。游戏中共有四个关卡，关卡中有各种不同的敌人。击败敌人，提高评价，获取金币，强化自身，征服这颗荒野星球吧！</li></ul><h3 id="实机截图"><a href="#实机截图" class="headerlink" title="实机截图"></a>实机截图</h3><p><img src="https://i.postimg.cc/5NQMxJZz/Wild-Star01.png"></p><p><img src="https://i.postimg.cc/pV6Hbr1x/Wild-Star02.png"></p><p><img src="https://i.postimg.cc/sxqdpHZ1/Wild-Star03.png"></p><h3 id="演示视频-amp-游戏本体"><a href="#演示视频-amp-游戏本体" class="headerlink" title="演示视频&amp;游戏本体"></a><a href="https://www.dropbox.com/sh/xi3mzvilghraa4e/AADiySN6eN3t-UAPBofzy_PYa?dl=0">演示视频&amp;游戏本体</a></h3><p>（注: 由于本体仅可在Switch开发机上运行，故此处不包含游戏本体。）</p><h3 id="源码"><a href="#源码" class="headerlink" title="源码"></a><a href="https://github.com/Vera-Fu/Wild-Star.git">源码</a></h3><hr><h3 id="游戏详情"><a href="#游戏详情" class="headerlink" title="游戏详情"></a>游戏详情</h3><ul><li><p>本游戏为HAL校方组织的游戏设计比赛项目的参赛作品。使用的制作工具为Nintendo SDK，游戏的类型为弹幕射击。最终获得了由学校颁发的意欲赏。</p></li><li><p>本游戏制作的主要目的是了解与熟悉游戏的Initialize、Update、Draw、UnInitialize四大基本循环，了解与熟悉游戏制作的流程。</p></li><li><p>游戏的主体为《飞机大战》式的弹幕射击，但在此基础上加入了商店，机体强化，关卡选择，场景切换，简单的敌人AI等设计。</p></li><li><p>游戏中共含四大关卡，关卡中有不同的敌人，敌人有各种不同的攻击方式。游戏的难度颇高，在班级同学（试玩者约7-8人）的试玩中无人顺利通过第一关，仅有一人见到了第一关的关底BOSS。但敌人的出现时机以及攻击方式均是固定的，玩家进行记忆以及熟悉以后每一关均可尝试无伤通关。为此我亦为游戏加入了关卡最高分以及关卡评价的设计，给予了玩家重复挑战的欲望。</p></li></ul><h3 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h3><ul><li><p>虽然作为一个游戏该有的基本要素都有了，但其实就是一个平平无奇的弹幕射击游戏……</p></li><li><p>整个游戏开发过程中花费时间比较多的还是在AI和关卡的调整设计上吧，当时写AI的时候就是用了粗暴的if else，自己甚至也没有意识到这是游戏AI，所以其实就是一个简单的固定移动和根据剩余血量的进行的固定攻击方式。</p></li><li><p>关卡的调整设计就是敌人的出现时机，关卡的长度等等。我自己在设计的时候是按照着自己可以无伤过的标准来设计的。但在后续同学的试玩中发现难度还是太高了……我也在差不多这个时候听到了一个观点：“如果一个游戏的难度对于设计师来说正好，那么对于玩家来说那难度肯定是偏高的。”</p></li><li><p>因为没有游戏本体可供试玩，所以就，谢谢你看我的叨叨。</p></li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="Wild-Star"><a href="#Wild-Star" class="headerlink" title="Wild Star"></a>Wild Star</h1><hr><h3 id="制作时间"><a href="#制作时间" class="headerlink" title="制作时间"></a>制作时间</h3><ul><li>2021年6月</li></ul><h3 id="制作工具"><a href="#制作工具" class="headerlink" title="制作工具"></a>制作工具</h3><ul><li>Nintendo SDK</li></ul><h3 id="游戏标签"><a href="#游戏标签" class="headerlink" title="游戏标签"></a>游戏标签</h3><ul><li>弹幕射击</li></ul><h3 id="游戏简介"><a href="#游戏简介" class="headerlink" title="游戏简介"></a>游戏简介</h3><ul><li>《Wild Star》是一款使用Nintendo SDK开发的弹幕射击游戏。游戏中共有四个关卡，关卡中有各种不同的敌人。击败敌人，提高评价，获取金币，强化自身，征服这颗荒野星球吧！</li></ul><h3 id="实机截图"><a href="#实机截图" class="headerlink" title="实机截图"></a>实机截图</h3><p><img src="https://i.postimg.cc/5NQMxJZz/Wild-Star01.png"></p><p><img src="https://i.postimg.cc/pV6Hbr1x/Wild-Star02.png"></p><p><img src="https://i.postimg.cc/sxqdpHZ1/Wild-Star03.png"></p><h3 id="演示视频-amp-游戏本体"><a href="#演示视频-amp-游戏本体" class="headerlink" title="演示视频&amp;游戏本体"></a><a href="https://www.dropbox.com/sh/xi3mzvilghraa4e/AADiySN6eN3t-UAPBofzy_PYa?dl=0">演示视频&amp;游戏本体</a></h3><p>（注: 由于本体仅可在Switch开发机上运行，故此处不包含游戏本体。）</p><h3 id="源码"><a href="#源码" class="headerlink" title="源码"></a><a href="https://github.com/Vera-Fu/Wild-Star.git">源码</a></h3><hr><h3 id="游戏详情"><a href="#游戏详情" class="headerlink" title="游戏详情"></a>游戏详情</h3><ul><li><p>本游戏为HAL校方组织的游戏设计比赛项目的参赛作品。使用的制作工具为Nintendo SDK，游戏的类型为弹幕射击。最终获得了由学校颁发的意欲赏。</p></li><li><p>本游戏制作的主要目的是了解与熟悉游戏的Initialize、Update、Draw、UnInitialize四大基本循环，了解与熟悉游戏制作的流程。</p></li><li><p>游戏的主体为《飞机大战》式的弹幕射击，但在此基础上加入了商店，机体强化，关卡选择，场景切换，简单的敌人AI等设计。</p></li><li><p>游戏中共含四大关卡，关卡中有不同的敌人，敌人有各种不同的攻击方式。游戏的难度颇高，在班级同学（试玩者约7-8人）的试玩中无人顺利通过第一关，仅有一人见到了第一关的关底BOSS。但敌人的出现时机以及攻击方式均是固定的，玩家进行记忆以及熟悉以后每一关均可尝试无伤通关。为此我亦为游戏加入了关卡最高分以及关卡评价的设计，给予了玩家重复挑战的欲望。</p></li></ul><h3 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h3><ul><li><p>虽然作为一个游戏该有的基本要素都有了，但其实就是一个平平无奇的弹幕射击游戏……</p></li><li><p>整个游戏开发过程中花费时间比较多的还是在AI和关卡的调整设计上吧，当时写AI的时候就是用了粗暴的if else，自己甚至也没有意识到这是游戏AI，所以其实就是一个简单的固定移动和根据剩余血量的进行的固定攻击方式。</p></li><li><p>关卡的调整设计就是敌人的出现时机，关卡的长度等等。我自己在设计的时候是按照着自己可以无伤过的标准来设计的。但在后续同学的试玩中发现难度还是太高了……我也在差不多这个时候听到了一个观点：“如果一个游戏的难度对于设计师来说正好，那么对于玩家来说那难度肯定是偏高的。”</p></li><li><p>因为没有游戏本体可供试玩，所以就，谢谢你看我的游戏。</p></li></ul>]]></content>
       
       
       <categories>
