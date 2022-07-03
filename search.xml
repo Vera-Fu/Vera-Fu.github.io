@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>循环</title>
+      <link href="/2022/07/23/xun-huan/"/>
+      <url>/2022/07/23/xun-huan/</url>
+      
+        <content type="html"><![CDATA[<h3 id="开发进度记录"><a href="#开发进度记录" class="headerlink" title="开发进度记录"></a>开发进度记录</h3><h4 id="2020-x2F-07-x2F-03"><a href="#2020-x2F-07-x2F-03" class="headerlink" title="2020&#x2F;07&#x2F;03"></a>2020&#x2F;07&#x2F;03</h4><ul><li><p>制作了2048小游戏的道具图并完成了初步测试</p></li><li><p>制作了连连看小游戏的道具图并完成了初步测试</p></li><li><p>制作了十滴水小游戏的道具图并完成了初步测试</p></li><li><p>修改了2048小游戏插件，隐藏了游戏中“分数”、“历史”、“时间”、“次数”的显示</p></li><li><p>修改了2048小游戏插件，现在玩家获得胜利或游戏失败时不会另外呼出确认界面，而是直接退出小游戏界面回到游戏中</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 开发中游戏（个人项目） </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 解谜 </tag>
+            
+            <tag> RPG Maker </tag>
+            
+            <tag> 文字 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Maze Challenge一页策划</title>
       <link href="/2022/06/05/maze-challenge-yi-ye-ce-hua/"/>
       <url>/2022/06/05/maze-challenge-yi-ye-ce-hua/</url>
@@ -20,9 +49,9 @@
       
         <tags>
             
-            <tag> 解谜 </tag>
-            
             <tag> 一页策划 </tag>
+            
+            <tag> 解谜 </tag>
             
             <tag> 竞速 </tag>
             
@@ -161,9 +190,9 @@
       
         <tags>
             
-            <tag> DirectX </tag>
-            
             <tag> 解谜 </tag>
+            
+            <tag> DirectX </tag>
             
             <tag> 闯关 </tag>
             
