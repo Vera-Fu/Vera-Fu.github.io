@@ -348,7 +348,24 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h3 id="开发进度记录"><a href="#开发进度记录" class="headerlink" title="开发进度记录"></a>开发进度记录</h3><h4 id="2022-x2F-07-x2F-21"><a href="#2022-x2F-07-x2F-21" class="headerlink" title="2022&#x2F;07&#x2F;21"></a>2022&#x2F;07&#x2F;21</h4><ul>
+                <h3 id="开发进度记录"><a href="#开发进度记录" class="headerlink" title="开发进度记录"></a>开发进度记录</h3><h4 id="2022-x2F-07-x2F-22"><a href="#2022-x2F-07-x2F-22" class="headerlink" title="2022&#x2F;07&#x2F;22"></a>2022&#x2F;07&#x2F;22</h4><ul>
+<li><p>完成了敌魂2的设置</p>
+</li>
+<li><p>重新调整了敌魂的视觉范围</p>
+</li>
+<li><p>为玩家QTE失败后追加了无敌状态</p>
+<ul>
+<li>该状态下玩家不会被追击，修复了玩家有可能会被无限追击从而进入无限QTE的bug</li>
+<li>防止玩家降级以后马上又要进行跨级别的QTE</li>
+<li>该状态下玩家不会进入QTE状态</li>
+</ul>
+</li>
+<li><p>QTE进行中的状态内玩家不会被追击</p>
+</li>
+<li><p>封装了QTE失败和成功后的敌魂行为（因不同等级下其行为一致）</p>
+</li>
+</ul>
+<h4 id="2022-x2F-07-x2F-21"><a href="#2022-x2F-07-x2F-21" class="headerlink" title="2022&#x2F;07&#x2F;21"></a>2022&#x2F;07&#x2F;21</h4><ul>
 <li><p>修复了玩家等级大于3时吞噬其他的魂会进行降级演出的bug</p>
 </li>
 <li><p>修复了玩家升级时移动速度没有改变的bug</p>
